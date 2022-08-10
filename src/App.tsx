@@ -54,7 +54,7 @@ function App() {
               NOMBRE DEL ALUMNO:
             </h2>
             <h1 className="text-6xl font-bold">
-              CUENTA GIT:
+              CUENTA GIT
             </h1>
             <h1 className="text-6xl font-bold">
               CUENTA GIT LAB:
