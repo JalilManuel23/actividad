@@ -51,17 +51,17 @@ function App() {
           <div className=" max-w-xl grid grid-cols-1 gap-8">
             <h2 className="text-xl uppercase font-bold">UNIVERSIDAD TECNOLÓGICA DE DURANGO</h2>
             <h2 className="text-6xl font-bold">
-              NOMBRE DEL ALUMNO:
+              NOMBRE DEL ALUMNO: JALIL MANUEL LOPEZ CENICEROS
             </h2>
             <h1 className="text-6xl font-bold">
-              CUENTA GIT
+              CUENTA GIT: JALILMANUEL25
             </h1>
             <h1 className="text-6xl font-bold">
-              CUENTA GIT LAB:
+              CUENTA GIT LAB: @JALILMANUEL25
             </h1>
             <h1 className="text-6xl font-bold">
-              E-MAIL:
-            </h1>                      
+              E-MAIL: JALILMANUEL25@GMAIL.COM
+            </h1>                           
           </div>
         </div>
      </div>
